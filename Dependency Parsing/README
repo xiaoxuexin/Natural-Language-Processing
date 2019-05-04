@@ -12,4 +12,6 @@ In Homework 4, you’ll implement the shift-reduce neural dependency parser of C
 
 You’ll notice that most of the learning goals are based on deep learning topics, which is the primary focus of this homework. The skills you learn with this homework will hopefully help you with your projects and (ideally) with any real-world situation where you’d need to build a new network. However, you’re welcome—encouraged, even!—to wade into the parsing setup and evaluation code to understand more of how this kind of model works.
 
-#https://learning.oreilly.com/library/view/natural-language-processing/9781491978221/
+#A book with PyTorch and NLP
+
+https://learning.oreilly.com/library/view/natural-language-processing/9781491978221/
