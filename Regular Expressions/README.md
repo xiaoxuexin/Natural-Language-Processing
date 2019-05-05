@@ -1,3 +1,5 @@
+# Regular expression
+
 1  Background
 
 Email  addresses  are  everywhere  online.   Especially  in  personal  web  pages,  people  providetheir email as way of easily getting in touch with them.  However, unscrupulous spammersalso look for these addresses to send unwanted email to people.  As a result, some web pageauthors  have  resorted  to  obfuscating  their  address  so  that  a  human  could  still  figure  outwhat the address is without a machine being able to easily detect it.  For example, someonemight writemyname@domain.eduasmyname at domain dot edu.
